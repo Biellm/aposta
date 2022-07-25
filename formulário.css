@@ -1,0 +1,36 @@
+body{
+background-color: white;
+background-size:cover;
+}
+
+body{
+    color:white;
+    font-family: Courier;
+    font-size: 40px;
+    }
+    
+footer{
+    color:white;
+    font-family: Courier;
+    font-size: 30px;
+    }
+button{
+    font-size: 30px;
+
+}
+select{
+      font-size: 30px;
+ }
+
+input{
+    font-size: 30px;
+ }
+
+option{
+    justify-content: flex-end;
+}
+label{
+     font-size: 35px;
+}
+
+    
